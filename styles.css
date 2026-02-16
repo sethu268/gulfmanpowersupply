@@ -51,7 +51,7 @@ nav a {
 
 /* Hero */
 .hero {
-    background: linear-gradient(120deg, #1e3a8a, #2563eb);
+    background: linear-gradient(120deg, #0f172a, #1e293b);
     color: white;
     height: 85vh;
     display: flex;
